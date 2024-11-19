@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aneea\\source\\repos\\RealTimeQuizApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCD1937-D661-4FA4-971B-0F3DF1D327A5}|RealTimeQuizApp\\RealTimeQuizApp.csproj|c:\\users\\aneea\\source\\repos\\realtimequizapp\\realtimequizapp\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCD1937-D661-4FA4-971B-0F3DF1D327A5}|RealTimeQuizApp\\RealTimeQuizApp.csproj|solutionrelative:realtimequizapp\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCD1937-D661-4FA4-971B-0F3DF1D327A5}|RealTimeQuizApp\\RealTimeQuizApp.csproj|c:\\users\\aneea\\source\\repos\\realtimequizapp\\realtimequizapp\\services\\countdownservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCD1937-D661-4FA4-971B-0F3DF1D327A5}|RealTimeQuizApp\\RealTimeQuizApp.csproj|solutionrelative:realtimequizapp\\services\\countdownservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCD1937-D661-4FA4-971B-0F3DF1D327A5}|RealTimeQuizApp\\RealTimeQuizApp.csproj|c:\\users\\aneea\\source\\repos\\realtimequizapp\\realtimequizapp\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCD1937-D661-4FA4-971B-0F3DF1D327A5}|RealTimeQuizApp\\RealTimeQuizApp.csproj|solutionrelative:realtimequizapp\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCD1937-D661-4FA4-971B-0F3DF1D327A5}|RealTimeQuizApp\\RealTimeQuizApp.csproj|c:\\users\\aneea\\source\\repos\\realtimequizapp\\realtimequizapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCD1937-D661-4FA4-971B-0F3DF1D327A5}|RealTimeQuizApp\\RealTimeQuizApp.csproj|solutionrelative:realtimequizapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuestionController.cs",
+              "DocumentMoniker": "C:\\Users\\aneea\\source\\repos\\RealTimeQuizApp\\RealTimeQuizApp\\Controllers\\QuestionController.cs",
+              "RelativeDocumentMoniker": "RealTimeQuizApp\\Controllers\\QuestionController.cs",
+              "ToolTip": "C:\\Users\\aneea\\source\\repos\\RealTimeQuizApp\\RealTimeQuizApp\\Controllers\\QuestionController.cs",
+              "RelativeToolTip": "RealTimeQuizApp\\Controllers\\QuestionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:19:48.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountdownService.cs",
+              "DocumentMoniker": "C:\\Users\\aneea\\source\\repos\\RealTimeQuizApp\\RealTimeQuizApp\\Services\\CountdownService.cs",
+              "RelativeDocumentMoniker": "RealTimeQuizApp\\Services\\CountdownService.cs",
+              "ToolTip": "C:\\Users\\aneea\\source\\repos\\RealTimeQuizApp\\RealTimeQuizApp\\Services\\CountdownService.cs",
+              "RelativeToolTip": "RealTimeQuizApp\\Services\\CountdownService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:42:47.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "C:\\Users\\aneea\\source\\repos\\RealTimeQuizApp\\RealTimeQuizApp\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "RealTimeQuizApp\\Controllers\\QuizController.cs",
+              "ToolTip": "C:\\Users\\aneea\\source\\repos\\RealTimeQuizApp\\RealTimeQuizApp\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "RealTimeQuizApp\\Controllers\\QuizController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAwGAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:16:11.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aneea\\source\\repos\\RealTimeQuizApp\\RealTimeQuizApp\\Program.cs",
+              "RelativeDocumentMoniker": "RealTimeQuizApp\\Program.cs",
+              "ToolTip": "C:\\Users\\aneea\\source\\repos\\RealTimeQuizApp\\RealTimeQuizApp\\Program.cs",
+              "RelativeToolTip": "RealTimeQuizApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:34:15.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
